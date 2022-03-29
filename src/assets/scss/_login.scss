@@ -1,0 +1,22 @@
+.signin-container{
+    align-items: center;
+    // margin-top: 150px;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    background:linear-gradient(
+		173deg,
+		transparent,
+		rgba(90,200,250,0.1),
+		transparent,
+		rgba(64 , 156 ,255 , 0.1),
+		transparent
+
+	);
+    .form-container{
+        margin-top: 80px;
+        // background-color:rgb(142, 104, 153);
+        
+    }
+}
